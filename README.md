@@ -1,6 +1,6 @@
 # Lesson 01
 
-## Tasks:
+## Tasks: Simple Neural Network
 
 - `Load` Pima Indians Diabetes dataset.
 - Review dataset `structure` and `characteristics`.
@@ -13,4 +13,10 @@
 - `Monitor` training progress (including loss and accuracy metrics).
 - `Evaluate` trained model's performance on the test set.
 - Make `predictions` for a given set of input features using the trained model.
+
+# Lesson 02
+
+## Tasks: Multi-layer Perceptrone
+
+- 
 
