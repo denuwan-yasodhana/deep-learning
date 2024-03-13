@@ -1,6 +1,6 @@
 # Tensorflow
 
-### Basic Theory
+### [Basic Theory](https://github.com/denuwan-yasodhana/deep-learning/blob/main/Tensorflow/Lesson01.ipynb)
 
 - Create different tensors
 - Shape of tensor
