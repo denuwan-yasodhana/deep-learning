@@ -12,7 +12,7 @@
 
 # Lesson 01
 
-## [ Tasks: Simple Neural Network ](https://github.com/denuwan-yasodhana/matlab/blob/main/basic_theory.md)
+## [ Tasks: Simple Neural Network ](https://github.com/denuwan-yasodhana/deep-learning/blob/main/Lesson_01/1.%20SimpleNeuralNetwork.ipynb)
 
 - `Load` Pima Indians Diabetes dataset.
 - Review dataset `structure` and `characteristics`.
