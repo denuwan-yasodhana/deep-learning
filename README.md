@@ -1,3 +1,15 @@
+# Tensorflow
+
+### Basic Theory
+
+- Create different tensors
+- Shape of tensor
+- Change the shape of tensor
+
+### Core learning algorithms
+
+- Linear Regressions
+
 # Lesson 01
 
 ## Tasks: Simple Neural Network
